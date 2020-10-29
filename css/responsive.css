@@ -68,8 +68,9 @@
 }
 
 .col-3 p {
-  margin-left: 0
+  margin-left: 0;
   column-count: 1;
+  float: none;
 }
 
 #details div {
