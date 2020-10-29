@@ -58,11 +58,13 @@
 .col-1 {
   margin-left: 0;
   width: 100%;
+  float: none;
 }
 
 .col-2 {
   margin-left: 0;
   width: 100%;
+  float: none;
 }
 
 .col-3 p {
