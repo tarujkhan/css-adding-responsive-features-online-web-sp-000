@@ -61,12 +61,12 @@
 }
 
 .col-2 {
-  
+  margin-left: 0;
   width: 100%;
 }
 
 .col-3 p {
- 
+  margin-left: 0
   column-count: 1;
 }
 
